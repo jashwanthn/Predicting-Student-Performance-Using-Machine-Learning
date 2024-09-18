@@ -1,0 +1,11 @@
+[ 2024-09-10 11:46:05,112 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-09-10 11:46:05,128 ] 97 werkzeug - INFO -  * Debugger PIN: 670-071-732
+[ 2024-09-10 11:46:16,132 ] 97 werkzeug - INFO - 127.0.0.1 - - [10/Sep/2024 11:46:16] "GET / HTTP/1.1" 200 -
+[ 2024-09-10 11:46:16,365 ] 97 werkzeug - INFO - 127.0.0.1 - - [10/Sep/2024 11:46:16] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+[ 2024-09-10 11:46:16,439 ] 97 werkzeug - INFO - 127.0.0.1 - - [10/Sep/2024 11:46:16] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-09-10 11:46:24,603 ] 97 werkzeug - INFO - 127.0.0.1 - - [10/Sep/2024 11:46:24] "GET /predictdata HTTP/1.1" 200 -
+[ 2024-09-10 11:46:24,648 ] 97 werkzeug - INFO - 127.0.0.1 - - [10/Sep/2024 11:46:24] "[36mGET /static/css/styles_home.css HTTP/1.1[0m" 304 -
+[ 2024-09-10 11:46:53,809 ] 97 werkzeug - INFO - 127.0.0.1 - - [10/Sep/2024 11:46:53] "POST /predictdata HTTP/1.1" 200 -
+[ 2024-09-10 11:46:53,834 ] 97 werkzeug - INFO - 127.0.0.1 - - [10/Sep/2024 11:46:53] "[36mGET /static/css/styles_home.css HTTP/1.1[0m" 304 -
+[ 2024-09-10 11:47:48,699 ] 97 werkzeug - INFO - 127.0.0.1 - - [10/Sep/2024 11:47:48] "POST /predictdata HTTP/1.1" 200 -
+[ 2024-09-10 11:47:48,743 ] 97 werkzeug - INFO - 127.0.0.1 - - [10/Sep/2024 11:47:48] "[36mGET /static/css/styles_home.css HTTP/1.1[0m" 304 -
